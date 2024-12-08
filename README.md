@@ -13,10 +13,7 @@ Welcome to **Fit Club**, a modern and responsive gym website built using cutting
 ## 📸 Project Preview
 
 ### Homepage
-![Homepage Screenshot](https://via.placeholder.com/1200x600?text=Fit+Club+Homepage)
-
-### Features Section
-![Features Section](https://via.placeholder.com/1200x600?text=Features+Section)
+![Homepage Screenshot](https://raw.githubusercontent.com/arbaajpathan/fit_club/refs/heads/arbaj/src/assets/profileimage.png)
 
 ---
 
@@ -126,7 +123,7 @@ Special thanks to all developers and open-source contributors whose tools and re
 
 **Arbaj Alamgir Pathan**  
 - GitHub: [@arbaajpathan](https://github.com/arbaajpathan)  
-- LinkedIn: [Your LinkedIn Profile](#)  
+- LinkedIn: [Arbaj Pathan LinkedIn Profile](http://www.linkedin.com/in/arbaj-pathan-a9855325b)  
 
 ---
 
